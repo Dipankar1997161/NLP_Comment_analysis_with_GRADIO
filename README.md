@@ -1,4 +1,4 @@
-# NLP_Predictive_analysis_GRADIO
+# NLP_Comment_analysis_with_GRADIO
 
 ## Natural Language Processing
 
